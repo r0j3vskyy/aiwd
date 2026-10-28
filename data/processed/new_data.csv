@@ -1,0 +1,12 @@
+Student,Punktacja [%],Frekwencja [%],Zaj_dodatkowe
+Alice,85.0,95.0,True
+Bob,90.0,85.0,True
+Charlie,78.0,100.0,False
+David,100.0,75.0,True
+Eve,88.0,88.0,False
+Frank,76.0,92.0,True
+Grace,92.0,89.0,False
+Hannah,100.0,80.0,True
+Isaac,80.0,100.0,False
+Jack,84.0,91.0,False
+Maria,93.0,75.0,True
